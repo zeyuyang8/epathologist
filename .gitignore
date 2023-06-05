@@ -2,3 +2,4 @@
 **.egg-info
 .ipynb_checkpoints
 examples/data/benchmarks
+examples/data/checkpoints
