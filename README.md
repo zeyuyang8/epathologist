@@ -2,7 +2,7 @@
 
 ## Introduction
 
-E-Pathologist is a python toolkit for digital pathology image analysis.
+E-Pathologist is a python toolbox for digital pathology image analysis.
 
 ## Installation
 
