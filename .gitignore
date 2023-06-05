@@ -3,3 +3,5 @@
 .ipynb_checkpoints
 examples/data/benchmarks
 examples/data/checkpoints
+lightning_logs
+

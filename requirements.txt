@@ -1,7 +1,10 @@
-ipykernel==6.23.1
-torch==2.0.0
-torchvision==0.15.1
-matplotlib==3.7.1
-pandas==2.0.1
-scikit-learn==1.2.2
-tiatoolbox==1.4.0
+ipykernel
+jupyter
+torch
+torchvision
+matplotlib
+pandas
+scikit-learn
+tiatoolbox
+cellseg-models-pytorch
+torch-optimizer
