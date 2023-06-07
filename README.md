@@ -25,6 +25,12 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
+## Datasets
+
+- [TCGA-NuCLS](https://sites.google.com/view/nucls/home) (image and nuclei localization and classication)
+- [TCGA-BCSS](https://bcsegmentation.grand-challenge.org/) (image and region segmentation)
+- [TCGA-BRCA](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=3539225) (image and metadata of patients)
+
 ## Usage
 
 TBD
