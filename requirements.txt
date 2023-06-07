@@ -8,3 +8,4 @@ scikit-learn
 tiatoolbox
 cellseg-models-pytorch
 torch-optimizer
+split-folders
