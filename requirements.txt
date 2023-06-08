@@ -9,3 +9,4 @@ tiatoolbox
 cellseg-models-pytorch
 torch-optimizer
 split-folders
+gdown
