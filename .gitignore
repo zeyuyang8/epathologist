@@ -4,3 +4,4 @@
 examples/data/benchmarks
 examples/data/checkpoints
 lightning_logs
+.DS_Store
