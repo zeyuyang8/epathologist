@@ -28,3 +28,12 @@ pip install -e .
 ## Usage
 
 TBD
+
+## Observations
+
+When I trained the Mask-RCNN model on the NuCLS data, it has a big overfitting problem. The reasons incldue:
+
+- Number of classes in NuCLS is 15, which is too many.
+- I cannot gaurrenttee the cell type is distinguishable
+- The backbone I used is ResNet50, but it may help if I train the classifer first on cropped nucleis
+- Weighted cross entropy loss for the classifier.
